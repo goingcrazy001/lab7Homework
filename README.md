@@ -43,12 +43,6 @@ main()
 	case 2: case 3: case 4:
 		switch (k)
 		{
-		case 2: printf("%d копейки", k);
-			break;
-		case 3: printf("%d копейки", k);
-			break;
-		case 4: printf("%d копейки", k);
-			break;
 		case 12: printf("%d копеек", k);
 			break;
 		case 13: printf("%d копеек", k);
